@@ -1,0 +1,121 @@
+2016 , http://dx.doi.org/10.1016/j.synthmet.2016.07.003 , 0, 
+2016 , http://dx.doi.org/10.1016/j.ceramint.2016.07.119 , 0, 
+2016 , http://dx.doi.org/10.1016/j.jece.2015.11.013 , 0, 
+2016 , http://dx.doi.org/10.1016/j.ejps.2015.12.006 , 0, 
+2016 , http://dx.doi.org/10.1016/j.apcatb.2016.04.021 , 0, 
+2016 , http://dx.doi.org/10.1021/acs.jpcc.6b04919 , 0, 
+2016 , http://dx.doi.org/10.1016/j.ijhydene.2016.07.238 , 0, 
+2016 , http://dx.doi.org/10.1021/acs.jpcc.6b04262 , 0, 
+2016 , http://dx.doi.org/10.1016/j.ijhydene.2016.02.055 , 0, 
+2016 , http://dx.doi.org/10.1080/10610278.2015.1093631 , 0, 
+2016 , http://dx.doi.org/10.1515/epoly-2015-0229 , 3, United States; Japan; Brazil; 
+2016 , http://dx.doi.org/10.4028/www.scientific.net/MSF.869.982 , 0, 
+2016 , http://dx.doi.org/10.4028/www.scientific.net/MSF.869.663 , 0, 
+2016 , http://dx.doi.org/10.1016/j.jlumin.2015.06.037 , 0, 
+2016 , http://dx.doi.org/10.1039/c6nr00158k , 2, Portugal; Brazil; 
+2016 , http://dx.doi.org/10.1063/1.4947290 , 0, 
+2016 , http://dx.doi.org/10.2174/1874210601610010227 , 2, United States; Brazil; 
+2016 , http://dx.doi.org/10.1007/s10847-016-0627-y , 0, 
+2016 , http://dx.doi.org/10.1016/j.jlumin.2016.09.057 , 0, 
+2016 , http://dx.doi.org/10.3390/molecules21111539 , 1, Brazil; 
+2016 , http://dx.doi.org/10.1016/j.molstruc.2016.11.034 , 0, 
+2016 , http://dx.doi.org/10.1016/j.jlumin.2015.04.010 , 0, 
+2016 , http://dx.doi.org/10.1590/1980-5373-MR-2015-0319 , 1, Brazil; 
+2016 , http://dx.doi.org/10.1590/0104-9224/SI2101.06 , 1, Brazil; 
+2016 , http://dx.doi.org/10.1080/09507116.2015.1096498 , 1, Brazil; 
+2016 , http://dx.doi.org/10.1007/s11661-016-3631-3 , 0, 
+2016 , http://dx.doi.org/10.1007/s11665-016-2357-0 , 0, 
+2017 , http://dx.doi.org/10.1016/j.matchemphys.2017.01.024 , 0, 
+2017 , http://dx.doi.org/10.1016/j.jssc.2017.04.002 , 0, 
+2017 , http://dx.doi.org/10.1590/1980-5373-mr-2016-1015 , 1, Brazil; 
+2017 , http://dx.doi.org/10.1016/j.ceramint.2017.03.160 , 0, 
+2017 , http://dx.doi.org/10.4028/www.scientific.net/msf.899.361 , 0, 
+2017 , http://dx.doi.org/10.1021/acs.jpcc.6b10540 , 0, 
+2017 , http://dx.doi.org/10.1590/0366-69132017633652051 , 1, Brazil; 
+2017 , http://dx.doi.org/10.21839/jaar.2017.v2i1.47 , 0, 
+2017 , http://dx.doi.org/10.1016/j.ijhydene.2017.05.080 , 0, 
+2017 , http://dx.doi.org/10.1007/s10570-017-1218-9 , 0, 
+2017 , http://dx.doi.org/10.1016/j.msec.2017.08.017 , 0, 
+2017 , http://dx.doi.org/10.21577/0103-5053.20170201 , 0, 
+2017 , http://dx.doi.org/10.1155/2017/3647801 , 1, Brazil; 
+2017 , http://dx.doi.org/10.1016/j.jhin.2017.11.008 , 0, 
+2017 , http://dx.doi.org/10.1039/c6ra27850g , 2, Portugal; Brazil; 
+2017 , http://dx.doi.org/10.1371/journal.pone.0170026 , 2, United States; Brazil; 
+2017 , http://dx.doi.org/10.2174/1874210601711010048 , 2, United States; Brazil; 
+2017 , http://dx.doi.org/10.1016/j.matlet.2017.01.106 , 0, 
+2017 , http://dx.doi.org/10.1021/acsami.6b13474 , 0, 
+2017 , http://dx.doi.org/10.1590/0366-69132017633652041 , 1, Brazil; 
+2017 , http://dx.doi.org/10.1021/acsami.6b15667 , 0, 
+2017 , http://dx.doi.org/10.1039/c6pp00408c , 1, Brazil; 
+2017 , http://dx.doi.org/10.1016/j.jlumin.2017.04.001 , 0, 
+2017 , http://dx.doi.org/10.1016/j.jssc.2017.05.023 , 0, 
+2017 , http://dx.doi.org/10.1002/jssc.201700501 , 0, 
+2017 , http://dx.doi.org/10.1002/elan.201700384 , 0, 
+2017 , http://dx.doi.org/10.1590/0366-69132017633672104 , 0, 
+2017 , http://dx.doi.org/10.1016/j.molstruc.2017.10.096 , 0, 
+2017 , http://dx.doi.org/10.1080/09507116.2016.1218615 , 1, Brazil; 
+2017 , http://dx.doi.org/10.4028/www.scientific.net/msf.899.317 , 0, 
+2017 , http://dx.doi.org/10.1590/1980-5373-mr-2016-0954 , 1, Brazil; 
+2017 , http://dx.doi.org/10.1590/1980-5373-mr-2017-0025 , 1, Brazil; 
+2017 , http://dx.doi.org/10.4028/www.scientific.net/msf.899.25 , 0, 
+2017 , http://dx.doi.org/10.1590/0104-9224/SI2202.03 , 1, Brazil; 
+2017 , http://dx.doi.org/10.1590/1980-5373-mr-2016-1060 , 1, Brazil; 
+2017 , http://dx.doi.org/10.1080/09507116.2017.1347323 , 2, United States; Brazil; 
+2018 , http://dx.doi.org/10.1039/c7nj04625a , 1, Brazil; 
+2018 , http://dx.doi.org/10.1016/j.jallcom.2018.07.339 , 0, 
+2018 , http://dx.doi.org/10.1002/slct.201801423 , 0, 
+2018 , http://dx.doi.org/10.1016/j.prostr.2018.12.019 , 0, 
+2018 , http://dx.doi.org/10.1007/s11051-017-4119-9 , 0, 
+2018 , http://dx.doi.org/10.1021/acs.jpcc.7b12219 , 0, 
+2018 , http://dx.doi.org/10.1016/j.lwt.2018.04.015 , 0, 
+2018 , http://dx.doi.org/10.1021/acs.jpcc.7b11822 , 0, 
+2018 , http://dx.doi.org/10.1016/j.msec.2018.04.089 , 0, 
+2018 , http://dx.doi.org/10.1016/j.fuel.2018.05.064 , 0, 
+2018 , http://dx.doi.org/10.1016/j.archoralbio.2018.07.004 , 0, 
+2018 , http://dx.doi.org/10.1039/c8ce00743h , 2, Italy; Brazil; 
+2018 , http://dx.doi.org/10.1016/j.ijhydene.2018.06.176 , 0, 
+2018 , http://dx.doi.org/10.3389/fcimb.2018.00303 , 2, France; Brazil; 
+2018 , http://dx.doi.org/10.1021/acsaem.8b00375 , 0, 
+2018 , http://dx.doi.org/10.1016/j.molliq.2018.08.066 , 0, 
+2018 , http://dx.doi.org/10.1590/1980-5373-mr-2017-0779 , 1, Brazil; 
+2018 , http://dx.doi.org/10.1016/j.molliq.2018.10.087 , 0, 
+2018 , http://dx.doi.org/10.1016/j.molliq.2018.09.066 , 0, 
+2018 , http://dx.doi.org/10.1002/jssc.201700812 , 0, 
+2018 , http://dx.doi.org/10.1039/c8tc00658j , 1, Brazil; 
+2018 , http://dx.doi.org/10.21577/0103-5053.20180087 , 0, 
+2018 , http://dx.doi.org/10.1016/j.matlet.2018.07.033 , 0, 
+2018 , http://dx.doi.org/10.1021/acsomega.8b01067 , 0, 
+2018 , http://dx.doi.org/10.1016/j.microc.2018.09.013 , 0, 
+2018 , http://dx.doi.org/10.1158/1538-7445.am2018-5877 , 1, Brazil; 
+2018 , http://dx.doi.org/10.1039/c8ay01341a , 2, Denmark; Brazil; 
+2018 , http://dx.doi.org/10.1039/c8dt04649b , 1, Brazil; 
+2018 , http://dx.doi.org/10.21577/0103-5053.20180218 , 0, 
+2018 , http://dx.doi.org/10.1590/1980-5373-mr-2016-1011 , 2, Brazil; Germany; 
+2018 , http://dx.doi.org/10.1590/1980-5373-mr-2017-0066 , 1, Brazil; 
+2018 , http://dx.doi.org/10.1007/s40430-018-1372-5 , 0, 
+2018 , http://dx.doi.org/10.1007/s12540-018-0111-x , 0, 
+2018 , http://dx.doi.org/10.1590/0104-9224/si2303.06 , 1, Brazil; 
+2019 , http://dx.doi.org/10.1039/c8nj06420b , 1, Brazil; 
+2019 , http://dx.doi.org/10.1016/j.ica.2019.04.031 , 0, 
+2019 , http://dx.doi.org/10.1590/s1517-707620190001.0658 , 1, Brazil; 
+2019 , http://dx.doi.org/10.1016/j.matchemphys.2019.121737 , 0, 
+2019 , http://dx.doi.org/10.1016/j.jmapro.2019.05.040 , 0, 
+2019 , http://dx.doi.org/10.1016/j.scitotenv.2018.12.444 , 0, 
+2019 , http://dx.doi.org/10.1557/jmr.2019.23 , 1, Brazil; 
+2019 , http://dx.doi.org/10.1016/j.mseb.2019.03.019 , 0, 
+2019 , http://dx.doi.org/10.1016/j.molliq.2018.11.084 , 0, 
+2019 , http://dx.doi.org/10.1016/j.jlumin.2019.01.007 , 0, 
+2019 , http://dx.doi.org/10.1007/s11051-018-4422-0 , 0, 
+2019 , http://dx.doi.org/10.1590/0104-1428.04018 , 1, Brazil; 
+2019 , http://dx.doi.org/10.1557/jmr.2019.139 , 1, Brazil; 
+2019 , http://dx.doi.org/10.1038/s41598-019-43835-x , 1, Brazil; 
+2019 , http://dx.doi.org/10.1016/j.msec.2019.04.078 , 0, 
+2019 , http://dx.doi.org/10.1016/j.jssc.2019.05.008 , 0, 
+2019 , http://dx.doi.org/10.1016/j.microc.2019.104037 , 0, 
+2019 , http://dx.doi.org/10.1007/s13632-018-0506-6 , 0, 
+2019 , http://dx.doi.org/10.1590/s1517-707620190001.0640 , 1, Brazil; 
+2019 , http://dx.doi.org/10.1016/j.surfcoat.2019.04.040 , 0, 
+2019 , http://dx.doi.org/10.1007/s12613-019-1790-0 , 0, 
+2019 , http://dx.doi.org/10.1007/s11661-019-05293-y , 0, 
+2019 , http://dx.doi.org/10.1016/j.jmrt.2018.11.009 , 0, 
+2019 , http://dx.doi.org/10.1016/j.jallcom.2018.10.136 , 0, 

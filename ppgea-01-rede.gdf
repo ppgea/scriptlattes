@@ -1,0 +1,15 @@
+nodedef> name VARCHAR, idLattes VARCHAR, label VARCHAR, rotulo VARCHAR, lat DOUBLE, lon DOUBLE, collaborationRank DOUBLE, producaoBibliografica DOUBLE, artigoEmPeriodico DOUBLE, livro DOUBLE, capituloDeLivro DOUBLE, trabalhoEmCongresso DOUBLE, resumoExpandido DOUBLE, resumo DOUBLE, color VARCHAR
+0,8938691250105531,Braulio Silva Barros,Professor,-8.0452684,-34.9410150,1.36119,40,13,0,1,0,5,21,'0,0,153'
+1,2972467462423068,Carlos Augusto do Nascimento Oliveira,Professor,-8.0559466,-34.9561796,0.464587,18,5,0,0,13,0,0,'0,0,153'
+2,2869680994075940,Giovanna Machado,Professor,-8.0559466,-34.9561796,0.15,70,34,0,0,7,12,17,'0,0,153'
+3,1568423340359601,Joanna Elzbieta Kulesza,Professor,-8.0452684,-34.9410150,1.31378,35,10,0,0,0,2,23,'0,0,153'
+4,5515185093886020,Kleber Goncalves Bezerra Alves,Professor,-8.0514444,-34.9529563,0.15,12,8,0,0,4,0,0,'0,0,153'
+5,9563158536061549,Severino Alves Junior,Professor,-8.0559466,-34.9561796,0.325027,67,46,1,0,0,0,20,'0,0,153'
+6,4668070841633275,Severino Leopoldino Urtiga Filho,Professor,-8.0524216,-34.9552024,1.44165,22,16,0,0,6,0,0,'0,0,153'
+7,2200553486822519,Tiago Felipe de Abreu Santos,Professor,-8.0543756,-34.9495275,1.09376,28,18,0,0,10,0,0,'0,0,153'
+edgedef> node1 VARCHAR, node2 VARCHAR, weight DOUBLE
+0,3,32.0
+0,5,5.0
+1,6,1.0
+3,5,4.0
+6,7,3.0
